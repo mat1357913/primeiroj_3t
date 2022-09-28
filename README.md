@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
-## Indentificação
-Nome: Matheus Tavares NR:29
+## Identificação
+nome:Matheus Tavares  - Nr.29 1j
 
-## Assuntos 
-HTML, CSS e JavaScritpt
+## Conteúdo
+HTML, CSS, javaScript
