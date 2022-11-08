@@ -1,1 +1,35 @@
+.calculadora {
+    background: rgb(115, 165, 157);
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(177, 177, 128);
+    text-align: center;
+    
+
+}
+.spTotal {
+    background: rgb(115, 115, 146);
+    width:200px
+    pad
+    
+}
+
+#btnCalc {
+    background: rgb(171, 2, 250);
+    color:white;
+    margin: 10px;
+    padding: 5px;
+}
+#btnCalc:hover{
+    background: rgb(201, 140, 230);
+    color:rgb(0, 0, 0);
+    cursor: pointer;
+}
+#total {
+    padding: 10px;
+    margin: 5px;
+    background: black;
+    color:yellow;
+}
 
